@@ -4,7 +4,7 @@
 **conor-b1995/conor-b1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Im currently studying at Code Institute for a Diploma in Full Stack Software Development.
+I am a qualified Junior Full Stack Software Developer after completing the Diploma in Full Stack Software Development at Code Institute.
 <br>
 Connect with me on [Linkedin](https://www.linkedin.com/in/conor-beirne/)
 
